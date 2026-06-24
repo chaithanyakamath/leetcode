@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/chaithanyakamath/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/chaithanyakamath/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/chaithanyakamath/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/chaithanyakamath/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/chaithanyakamath/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/chaithanyakamath/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Divide and Conquer
 |  |
 | ------- |
