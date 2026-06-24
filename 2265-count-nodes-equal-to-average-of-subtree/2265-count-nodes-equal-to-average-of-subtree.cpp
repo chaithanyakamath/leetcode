@@ -13,15 +13,16 @@ class Solution {
 public:
     int ans = 0;
     pair<int, int> dfs(TreeNode* root){
-        if(!root)   return {0,0};
+        if(!root)   return {0,0}; //root with no children
 
-        auto lsub = dfs(root->left);
-        auto rsub = dfs(root->right);
+        auto lsub = dfs(root->left); // left subtree till leaf of left subtree
+        auto rsub = dfs(root->right); // right subtree till leaf of right subtree
 
-        int sum = lsub.first + rsub.first + root->val;
-        int count = lsub.second + rsub.second + 1;
+        int sum = lsub.first + rsub.first + root->val; // compute sum of each node's subtree along with its value
+        int count = lsub.second + rsub.second + 1; // compute count of nodes in its subtree along with itself
 
-        if(sum/ count == root->val) ans++;
+        if(sum/count == root->val) ans++; // main comparision
+        
         return{sum, count};
     }
     int averageOfSubtree(TreeNode* root) {
