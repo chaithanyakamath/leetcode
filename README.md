@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/chaithanyakamath/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0617-merge-two-binary-trees](https://github.com/chaithanyakamath/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/chaithanyakamath/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/chaithanyakamath/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0617-merge-two-binary-trees](https://github.com/chaithanyakamath/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/chaithanyakamath/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/chaithanyakamath/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0897-increasing-order-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/chaithanyakamath/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -74,9 +77,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/chaithanyakamath/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0897-increasing-order-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Sorting
 |  |
 | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/chaithanyakamath/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
+## Design
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/chaithanyakamath/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/chaithanyakamath/leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
