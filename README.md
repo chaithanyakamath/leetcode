@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/chaithanyakamath/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/chaithanyakamath/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/chaithanyakamath/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/chaithanyakamath/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0617-merge-two-binary-trees](https://github.com/chaithanyakamath/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/chaithanyakamath/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/chaithanyakamath/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/chaithanyakamath/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/chaithanyakamath/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0617-merge-two-binary-trees](https://github.com/chaithanyakamath/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/chaithanyakamath/leetcode/tree/master/0994-rotting-oranges) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/chaithanyakamath/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/chaithanyakamath/leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/chaithanyakamath/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/chaithanyakamath/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -79,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chaithanyakamath/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -106,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/chaithanyakamath/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Design
 |  |
