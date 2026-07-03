@@ -20,17 +20,17 @@ public:
     }
     vector<vector<int>> verticalTraversal(TreeNode* root) {
         vector<tuple<int, int, int>> store; // col, row, root->val
-        dfs(root, 0, 0, store);
+        dfs(root, 0, 0, store); // (root, col, row, store)
 
-        sort(store.begin(), store.end());
+        sort(store.begin(), store.end()); // sort lexicographically
         vector<vector<int>> ans;
-        int prevCol = INT_MIN;
+        int prevCol = INT_MAX;
         for(auto[col, row, val] : store){
-            if(prevCol != col){
-                ans.push_back({});
+            if(prevCol != col){ // chcange the inner matrix - column lvl
+                ans.push_back({}); // adds new column initially
                 prevCol = col;
             }
-            ans.back().push_back(val);
+            ans.back().push_back(val); // adding values to each column respectively
         }
         return ans;
     }
