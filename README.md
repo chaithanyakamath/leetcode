@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/chaithanyakamath/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0617-merge-two-binary-trees](https://github.com/chaithanyakamath/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0994-rotting-oranges](https://github.com/chaithanyakamath/leetcode/tree/master/0994-rotting-oranges) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/chaithanyakamath/leetcode/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/chaithanyakamath/leetcode/tree/master/0035-search-insert-position) |
+| [0994-rotting-oranges](https://github.com/chaithanyakamath/leetcode/tree/master/0994-rotting-oranges) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chaithanyakamath/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/chaithanyakamath/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/chaithanyakamath/leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
