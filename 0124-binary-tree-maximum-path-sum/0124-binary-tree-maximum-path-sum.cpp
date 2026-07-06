@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    int Msum;
+    int Msum = INT_MIN;
     int sum(TreeNode* root){
         if(root == nullptr) return 0;
 
@@ -28,7 +28,6 @@ public:
     }
 
     int maxPathSum(TreeNode* root) {
-        Msum = INT_MIN;
         sum(root);
         return Msum;
     }
