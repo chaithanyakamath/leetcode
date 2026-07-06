@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chaithanyakamath/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0101-symmetric-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/chaithanyakamath/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/chaithanyakamath/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/chaithanyakamath/leetcode/tree/master/0173-binary-search-tree-iterator) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chaithanyakamath/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0101-symmetric-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/chaithanyakamath/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/chaithanyakamath/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0617-merge-two-binary-trees](https://github.com/chaithanyakamath/leetcode/tree/master/0617-merge-two-binary-trees) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chaithanyakamath/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0101-symmetric-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/chaithanyakamath/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/chaithanyakamath/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0173-binary-search-tree-iterator](https://github.com/chaithanyakamath/leetcode/tree/master/0173-binary-search-tree-iterator) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/chaithanyakamath/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/chaithanyakamath/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/chaithanyakamath/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0897-increasing-order-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1106-parsing-a-boolean-expression](https://github.com/chaithanyakamath/leetcode/tree/master/1106-parsing-a-boolean-expression) |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/chaithanyakamath/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/chaithanyakamath/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Matrix
 |  |
