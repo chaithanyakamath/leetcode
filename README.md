@@ -200,12 +200,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/chaithanyakamath/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/chaithanyakamath/leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0403-frog-jump](https://github.com/chaithanyakamath/leetcode/tree/master/0403-frog-jump) |
 | [0509-fibonacci-number](https://github.com/chaithanyakamath/leetcode/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/chaithanyakamath/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/chaithanyakamath/leetcode/tree/master/0509-fibonacci-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/chaithanyakamath/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Monotonic Stack
@@ -215,5 +217,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/chaithanyakamath/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/chaithanyakamath/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
