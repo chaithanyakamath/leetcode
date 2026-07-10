@@ -17,13 +17,13 @@ public:
 
         vector<int> dummy1 = nums;
         vector<int> dummy2 = nums;
-        dummy1.pop_back();
-        dummy2.erase(dummy2.begin());
+        dummy1.pop_back(); // removing last element if considering first one
+        dummy2.erase(dummy2.begin()); // removing first element if considering last
 
-        dp.assign(dummy1.size()+1, -1);
+        dp.assign(n+1, -1);
         int a =  solve(dummy1, 0);
 
-        dp.assign(dummy2.size()+1, -1);
+        dp.assign(n+1, -1);
         int b =  solve(dummy2, 0);
 
         return max(a,b);
