@@ -20,10 +20,10 @@ public:
         dummy1.pop_back(); // removing last element if considering first one
         dummy2.erase(dummy2.begin()); // removing first element if considering last
 
-        dp.assign(n+1, -1);
+        dp.assign(n+1, -1); // assign values everytime ur calling dp from begining
         int a =  solve(dummy1, 0);
 
-        dp.assign(n+1, -1);
+        dp.assign(n+1, -1); // assign values to dp everytime ur calling it from begining
         int b =  solve(dummy2, 0);
 
         return max(a,b);
