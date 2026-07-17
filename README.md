@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/chaithanyakamath/leetcode/tree/master/0091-decode-ways) |
 | [1106-parsing-a-boolean-expression](https://github.com/chaithanyakamath/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/chaithanyakamath/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Simulation
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/chaithanyakamath/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/chaithanyakamath/leetcode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/chaithanyakamath/leetcode/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/chaithanyakamath/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/chaithanyakamath/leetcode/tree/master/0213-house-robber-ii) |
