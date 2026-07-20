@@ -3,22 +3,20 @@ public:
     vector<vector<int>> shiftGrid(vector<vector<int>>& grid, int k) {
         int n = grid.size();
         int m = grid[0].size();
-        int total = n*m;
 
-        k %= total;
-        vector<vector<int>> ans(n, vector<int>(m));
+        while(k>0){
+            int last = grid[n-1][m-1];
+            for(int i=n-1; i>=0; i--){
+                for(int j=m-1; j>=0; j--){
+                    if(i == n-1 && j == m-1)    continue;
 
-        for(int i=0; i<n; i++){
-            for(int j=0; j<m; j++){
-                int oldIdx = i*m+j;
-                int newIdx = (oldIdx + k) % total;
-
-                int newRow = newIdx / m;
-                int newCol = newIdx % m;
-
-                ans[newRow][newCol] = grid[i][j];
+                    if(i != n-1 && j == m-1)   grid[i+1][0] = grid[i][m-1];
+                    else    grid[i][j+1] = grid[i][j];
+                }
             }
+            grid[0][0] = last;
+            k--;
         }
-        return ans;
+        return grid;
     }
 };
