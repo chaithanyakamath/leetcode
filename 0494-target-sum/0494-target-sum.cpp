@@ -8,7 +8,7 @@ int ans = 0;
         int plus = solve(nums, i+1, sum + nums[i], target);
         int minus = solve(nums, i+1, sum -nums[i], target);
 
-        return plus + minus;
+        return plus + minus; // for a particular val, target can be achieved in (plus + minus) way -> total for a val
     }
     int findTargetSumWays(vector<int>& nums, int target) {
         n = nums.size();
