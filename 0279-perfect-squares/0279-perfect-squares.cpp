@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<vector<int>> dp;
+    vector<vector<int>> dp; // 2d dp ==> i & n(n-store[i])
     int solve(vector<int>& store, int i, int n){
         if(n == 0)  return 0;
         if(i == store.size())   return 1e9;
