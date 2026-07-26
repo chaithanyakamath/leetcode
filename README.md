@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/chaithanyakamath/leetcode/tree/master/0518-coin-change-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/chaithanyakamath/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/chaithanyakamath/leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/chaithanyakamath/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/chaithanyakamath/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chaithanyakamath/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/chaithanyakamath/leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/chaithanyakamath/leetcode/tree/master/0518-coin-change-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/chaithanyakamath/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0740-delete-and-earn](https://github.com/chaithanyakamath/leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/chaithanyakamath/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -280,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0039-combination-sum) |
 | [0494-target-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0494-target-sum) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/chaithanyakamath/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
