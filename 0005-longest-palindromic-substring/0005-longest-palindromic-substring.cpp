@@ -2,11 +2,10 @@ class Solution {
 public:
 int n;
     bool solve(const string &str, int i, int j){
-        // if(i == n || j == n)    return 0;
         if(i >= j)  return true;
+        if(str[i] != str[j])    return false;
 
-        if(str[i] == str[j])    return solve(str, i+1, j-1);
-        else return false;
+        return solve(str, i+1, j-1);
     }
     string longestPalindrome(string s) {
         n = s.size();
