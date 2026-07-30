@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/chaithanyakamath/leetcode/tree/master/0055-jump-game) |
 | [0881-boats-to-save-people](https://github.com/chaithanyakamath/leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/chaithanyakamath/leetcode/tree/master/0948-bag-of-tokens) |
+| [1328-break-a-palindrome](https://github.com/chaithanyakamath/leetcode/tree/master/1328-break-a-palindrome) |
 | [1382-balance-a-binary-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/chaithanyakamath/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1106-parsing-a-boolean-expression](https://github.com/chaithanyakamath/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/chaithanyakamath/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1328-break-a-palindrome](https://github.com/chaithanyakamath/leetcode/tree/master/1328-break-a-palindrome) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/chaithanyakamath/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Simulation
 |  |
