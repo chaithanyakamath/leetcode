@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/chaithanyakamath/leetcode/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/chaithanyakamath/leetcode/tree/master/1328-break-a-palindrome) |
 | [1382-balance-a-binary-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chaithanyakamath/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1106-parsing-a-boolean-expression](https://github.com/chaithanyakamath/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/chaithanyakamath/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1328-break-a-palindrome](https://github.com/chaithanyakamath/leetcode/tree/master/1328-break-a-palindrome) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chaithanyakamath/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/chaithanyakamath/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Simulation
 |  |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/chaithanyakamath/leetcode/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/chaithanyakamath/leetcode/tree/master/0509-fibonacci-number) |
 | [0991-broken-calculator](https://github.com/chaithanyakamath/leetcode/tree/master/0991-broken-calculator) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chaithanyakamath/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/chaithanyakamath/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chaithanyakamath/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
