@@ -10,7 +10,7 @@ public:
         int maxx = nums[n-1];
 
         for(int i=minn; i<maxx; i++){
-            if(st.find(i)==st.end()) ans.push_back(i);
+            if(st.find(i) == st.end()) ans.push_back(i);
         }
 
         return ans;
