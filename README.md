@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaithanyakamath/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/chaithanyakamath/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1382-balance-a-binary-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1539-kth-missing-positive-number](https://github.com/chaithanyakamath/leetcode/tree/master/1539-kth-missing-positive-number) |
 ## Array
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/chaithanyakamath/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/chaithanyakamath/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chaithanyakamath/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1539-kth-missing-positive-number](https://github.com/chaithanyakamath/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/chaithanyakamath/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [3731-find-missing-elements](https://github.com/chaithanyakamath/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chaithanyakamath/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
