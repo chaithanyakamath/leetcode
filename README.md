@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/chaithanyakamath/leetcode/tree/master/0509-fibonacci-number) |
 | [0991-broken-calculator](https://github.com/chaithanyakamath/leetcode/tree/master/0991-broken-calculator) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chaithanyakamath/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/chaithanyakamath/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/chaithanyakamath/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chaithanyakamath/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Monotonic Stack
@@ -349,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/chaithanyakamath/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chaithanyakamath/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chaithanyakamath/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/chaithanyakamath/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
