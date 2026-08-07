@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chaithanyakamath/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/chaithanyakamath/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/chaithanyakamath/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/chaithanyakamath/leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [3731-find-missing-elements](https://github.com/chaithanyakamath/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chaithanyakamath/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chaithanyakamath/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/chaithanyakamath/leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chaithanyakamath/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
 |  |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/chaithanyakamath/leetcode/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chaithanyakamath/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/chaithanyakamath/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/chaithanyakamath/leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 ## Math
 |  |
 | ------- |
