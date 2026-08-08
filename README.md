@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/chaithanyakamath/leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/chaithanyakamath/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/chaithanyakamath/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/chaithanyakamath/leetcode/tree/master/0173-binary-search-tree-iterator) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chaithanyakamath/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0071-simplify-path](https://github.com/chaithanyakamath/leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/chaithanyakamath/leetcode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/chaithanyakamath/leetcode/tree/master/0091-decode-ways) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chaithanyakamath/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
