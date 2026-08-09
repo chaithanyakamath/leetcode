@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/chaithanyakamath/leetcode/tree/master/1402-reducing-dishes) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/chaithanyakamath/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/chaithanyakamath/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/chaithanyakamath/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chaithanyakamath/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chaithanyakamath/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search Tree
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/chaithanyakamath/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/chaithanyakamath/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/chaithanyakamath/leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/chaithanyakamath/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3731-find-missing-elements](https://github.com/chaithanyakamath/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chaithanyakamath/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chaithanyakamath/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/chaithanyakamath/leetcode/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1402-reducing-dishes](https://github.com/chaithanyakamath/leetcode/tree/master/1402-reducing-dishes) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/chaithanyakamath/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/chaithanyakamath/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chaithanyakamath/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/chaithanyakamath/leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chaithanyakamath/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
