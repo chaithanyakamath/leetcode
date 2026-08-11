@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/chaithanyakamath/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/chaithanyakamath/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/chaithanyakamath/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2405-optimal-partition-of-string](https://github.com/chaithanyakamath/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chaithanyakamath/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chaithanyakamath/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search Tree
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/chaithanyakamath/leetcode/tree/master/0740-delete-and-earn) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/chaithanyakamath/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2405-optimal-partition-of-string](https://github.com/chaithanyakamath/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chaithanyakamath/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chaithanyakamath/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/chaithanyakamath/leetcode/tree/master/3731-find-missing-elements) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/chaithanyakamath/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/chaithanyakamath/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/chaithanyakamath/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2405-optimal-partition-of-string](https://github.com/chaithanyakamath/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chaithanyakamath/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chaithanyakamath/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/chaithanyakamath/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
