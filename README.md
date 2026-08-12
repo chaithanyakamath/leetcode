@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/chaithanyakamath/leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/chaithanyakamath/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/chaithanyakamath/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chaithanyakamath/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chaithanyakamath/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/chaithanyakamath/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chaithanyakamath/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/chaithanyakamath/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2405-optimal-partition-of-string](https://github.com/chaithanyakamath/leetcode/tree/master/2405-optimal-partition-of-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chaithanyakamath/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chaithanyakamath/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chaithanyakamath/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/chaithanyakamath/leetcode/tree/master/3731-find-missing-elements) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chaithanyakamath/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chaithanyakamath/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/chaithanyakamath/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chaithanyakamath/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Enumeration
 |  |
 | ------- |
