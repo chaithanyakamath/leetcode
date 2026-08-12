@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/chaithanyakamath/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/chaithanyakamath/leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/chaithanyakamath/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/chaithanyakamath/leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/chaithanyakamath/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chaithanyakamath/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chaithanyakamath/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chaithanyakamath/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/chaithanyakamath/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/chaithanyakamath/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/chaithanyakamath/leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2390-removing-stars-from-a-string](https://github.com/chaithanyakamath/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/chaithanyakamath/leetcode/tree/master/2405-optimal-partition-of-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chaithanyakamath/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
