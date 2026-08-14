@@ -447,4 +447,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/chaithanyakamath/leetcode/tree/master/0197-rising-temperature) |
+| [0596-classes-with-at-least-5-students](https://github.com/chaithanyakamath/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 <!---LeetCode Topics End-->
