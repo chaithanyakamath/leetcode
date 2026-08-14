@@ -448,4 +448,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0197-rising-temperature](https://github.com/chaithanyakamath/leetcode/tree/master/0197-rising-temperature) |
 | [0596-classes-with-at-least-5-students](https://github.com/chaithanyakamath/leetcode/tree/master/0596-classes-with-at-least-5-students) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/chaithanyakamath/leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 <!---LeetCode Topics End-->
