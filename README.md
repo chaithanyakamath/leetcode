@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/chaithanyakamath/leetcode/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/chaithanyakamath/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2352-equal-row-and-column-pairs](https://github.com/chaithanyakamath/leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/chaithanyakamath/leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chaithanyakamath/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/chaithanyakamath/leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chaithanyakamath/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2336-smallest-number-in-infinite-set](https://github.com/chaithanyakamath/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/chaithanyakamath/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2405-optimal-partition-of-string](https://github.com/chaithanyakamath/leetcode/tree/master/2405-optimal-partition-of-string) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/chaithanyakamath/leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chaithanyakamath/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/chaithanyakamath/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chaithanyakamath/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chaithanyakamath/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chaithanyakamath/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/chaithanyakamath/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/chaithanyakamath/leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chaithanyakamath/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/chaithanyakamath/leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chaithanyakamath/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
