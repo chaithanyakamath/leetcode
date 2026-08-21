@@ -476,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/chaithanyakamath/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/chaithanyakamath/leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/chaithanyakamath/leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1211-queries-quality-and-percentage](https://github.com/chaithanyakamath/leetcode/tree/master/1211-queries-quality-and-percentage) |
 ## Concurrency
 |  |
 | ------- |
