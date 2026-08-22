@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chaithanyakamath/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0347-top-k-frequent-elements](https://github.com/chaithanyakamath/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/chaithanyakamath/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/chaithanyakamath/leetcode/tree/master/0217-contains-duplicate) |
 | [0300-longest-increasing-subsequence](https://github.com/chaithanyakamath/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/chaithanyakamath/leetcode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/chaithanyakamath/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/chaithanyakamath/leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0494-target-sum) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/chaithanyakamath/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/chaithanyakamath/leetcode/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/chaithanyakamath/leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/chaithanyakamath/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chaithanyakamath/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chaithanyakamath/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0740-delete-and-earn](https://github.com/chaithanyakamath/leetcode/tree/master/0740-delete-and-earn) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/chaithanyakamath/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/chaithanyakamath/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/chaithanyakamath/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/chaithanyakamath/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/chaithanyakamath/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/chaithanyakamath/leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/chaithanyakamath/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/chaithanyakamath/leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/chaithanyakamath/leetcode/tree/master/0948-bag-of-tokens) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -472,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/chaithanyakamath/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2336-smallest-number-in-infinite-set](https://github.com/chaithanyakamath/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
@@ -502,4 +508,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/chaithanyakamath/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/chaithanyakamath/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/chaithanyakamath/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
