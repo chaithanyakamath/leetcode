@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/chaithanyakamath/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/chaithanyakamath/leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/chaithanyakamath/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/chaithanyakamath/leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/chaithanyakamath/leetcode/tree/master/0055-jump-game) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/chaithanyakamath/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/chaithanyakamath/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/chaithanyakamath/leetcode/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/chaithanyakamath/leetcode/tree/master/0217-contains-duplicate) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/chaithanyakamath/leetcode/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/chaithanyakamath/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0931-minimum-falling-path-sum) |
