@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/chaithanyakamath/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/chaithanyakamath/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/chaithanyakamath/leetcode/tree/master/0076-minimum-window-substring) |
+| [0205-isomorphic-strings](https://github.com/chaithanyakamath/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/chaithanyakamath/leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/chaithanyakamath/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chaithanyakamath/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/chaithanyakamath/leetcode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/chaithanyakamath/leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/chaithanyakamath/leetcode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/chaithanyakamath/leetcode/tree/master/0205-isomorphic-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chaithanyakamath/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/chaithanyakamath/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/chaithanyakamath/leetcode/tree/master/0583-delete-operation-for-two-strings) |
