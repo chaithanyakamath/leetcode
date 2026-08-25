@@ -1,12 +1,12 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        unordered_map<char, int> mp1, mp2;
+        vector<int> mp1(256, -1), mp2(256, -1);
         int n = s.size();
 
         for(int i=0; i<n; i++){
-            if(mp1.count(s[i]) && mp1[s[i]] != t[i])  return false;
-            if(mp2.count(t[i]) && mp2[t[i]] != s[i])  return false;
+            if(mp1[s[i]] != -1 && mp1[s[i]] != t[i])  return false;
+            if(mp2[t[i]] != -1 && mp2[t[i]] != s[i])  return false;
 
             mp1[s[i]] = t[i];
             mp2[t[i]] = s[i];
