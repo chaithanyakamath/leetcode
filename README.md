@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/chaithanyakamath/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1402-reducing-dishes](https://github.com/chaithanyakamath/leetcode/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chaithanyakamath/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/chaithanyakamath/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1539-kth-missing-positive-number](https://github.com/chaithanyakamath/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/chaithanyakamath/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/chaithanyakamath/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chaithanyakamath/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0740-delete-and-earn](https://github.com/chaithanyakamath/leetcode/tree/master/0740-delete-and-earn) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/chaithanyakamath/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/chaithanyakamath/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/chaithanyakamath/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/chaithanyakamath/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/chaithanyakamath/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/chaithanyakamath/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/chaithanyakamath/leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/chaithanyakamath/leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/chaithanyakamath/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/chaithanyakamath/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
