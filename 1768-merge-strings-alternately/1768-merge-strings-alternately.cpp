@@ -19,7 +19,7 @@ public:
             }
             count++;
         }
-        if(i < n)   ans += word1.substr(i, n-1);
+        if(i < n)   ans += word1.substr(i, n);
         if(j < m)   ans += word2.substr(j, m);
 
         return ans;
