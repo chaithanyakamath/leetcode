@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/chaithanyakamath/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/chaithanyakamath/leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/chaithanyakamath/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/chaithanyakamath/leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/chaithanyakamath/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/chaithanyakamath/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/chaithanyakamath/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/chaithanyakamath/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0064-minimum-path-sum) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/chaithanyakamath/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/chaithanyakamath/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/chaithanyakamath/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/chaithanyakamath/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/chaithanyakamath/leetcode/tree/master/0063-unique-paths-ii) |
