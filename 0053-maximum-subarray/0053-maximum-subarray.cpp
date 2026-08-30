@@ -10,8 +10,8 @@ public:
             sum += nums[i];
             if(sum > msum){
                 msum = sum;
-                ansStart = start;
-                ansEnd = i;
+                // ansStart = start;
+                // ansEnd = i;
             }
             if(sum < 0){
                 sum = 0;
