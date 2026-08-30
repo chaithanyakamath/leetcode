@@ -11,11 +11,12 @@ public:
             if(sum > msum){
                 msum = sum;
                 // ansStart = start;
-                // ansEnd = i;
+                // ansEnd = i; 
+                // start n end r to main the subarray hving the max sum
             }
             if(sum < 0){
                 sum = 0;
-                start = i+1;
+                // start = i+1;
             }
         }
         return msum;
