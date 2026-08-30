@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-reducing-dishes](https://github.com/chaithanyakamath/leetcode/tree/master/1402-reducing-dishes) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/chaithanyakamath/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/chaithanyakamath/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/chaithanyakamath/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/chaithanyakamath/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/chaithanyakamath/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2405-optimal-partition-of-string](https://github.com/chaithanyakamath/leetcode/tree/master/2405-optimal-partition-of-string) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/chaithanyakamath/leetcode/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/chaithanyakamath/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/chaithanyakamath/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/chaithanyakamath/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/chaithanyakamath/leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/chaithanyakamath/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/chaithanyakamath/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
