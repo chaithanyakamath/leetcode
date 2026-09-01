@@ -13,25 +13,25 @@ public:
     bool isPalindrome(ListNode* head) {
         ListNode* slow = head;
         ListNode* fast = head;
+
         while(fast && fast->next){
             slow = slow->next;
             fast = fast->next->next;
         }
-
+        
         ListNode* cur = slow;
         ListNode* prev = nullptr;
-
         while(cur){
-            ListNode* NextNode = cur->next;
+            ListNode* nxt = cur->next;
             cur->next = prev;
             prev = cur;
-            cur = NextNode;
+            cur = nxt;
         }
 
         ListNode* a = head;
         ListNode* b = prev;
         while(a && b){
-            if(a->val != b->val) return false;
+            if(a->val != b->val)    return false;
             else{
                 a = a->next;
                 b = b->next;
