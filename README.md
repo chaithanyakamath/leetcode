@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/chaithanyakamath/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/chaithanyakamath/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/chaithanyakamath/leetcode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/chaithanyakamath/leetcode/tree/master/0525-contiguous-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/chaithanyakamath/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/chaithanyakamath/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/chaithanyakamath/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/chaithanyakamath/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/chaithanyakamath/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/chaithanyakamath/leetcode/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaithanyakamath/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/chaithanyakamath/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/chaithanyakamath/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/chaithanyakamath/leetcode/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaithanyakamath/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/chaithanyakamath/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
