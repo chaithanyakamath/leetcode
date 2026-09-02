@@ -1,9 +1,20 @@
 class Solution {
 public:
-    void dfs(int node, vector<bool>& vis, vector<vector<int>>& adj){
+    void bfs(int node, vector<bool>& vis, vector<vector<int>>& adj){
+        queue<int> qu;
+        qu.push(node);
         vis[node] = true;
-        for(int neighbours=0; neighbours < adj.size(); neighbours++){
-            if(adj[node][neighbours] == 1 && !vis[neighbours])  dfs(neighbours, vis, adj);
+
+        while(!qu.empty()){
+            int cur = qu.front();
+            qu.pop();
+
+            for(int neigh=0; neigh<adj[cur].size(); neigh++){
+                if(adj[cur][neigh] == 1 && !vis[neigh]){ 
+                    vis[neigh] = true;
+                    qu.push(neigh);
+                }
+            }
         }
     }
     int findCircleNum(vector<vector<int>>& isConnected) {
@@ -13,7 +24,7 @@ public:
 
         for(int i=0; i<n; i++){
             if(!vis[i]){
-                dfs(i, vis, isConnected);
+                bfs(i, vis, isConnected);
                 provinces++;
             }
         }
