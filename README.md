@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/chaithanyakamath/leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0456-132-pattern](https://github.com/chaithanyakamath/leetcode/tree/master/0456-132-pattern) |
+| [0486-predict-the-winner](https://github.com/chaithanyakamath/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/chaithanyakamath/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/chaithanyakamath/leetcode/tree/master/0503-next-greater-element-ii) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/chaithanyakamath/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/chaithanyakamath/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/chaithanyakamath/leetcode/tree/master/0509-fibonacci-number) |
 | [1106-parsing-a-boolean-expression](https://github.com/chaithanyakamath/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 ## Linked List
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/chaithanyakamath/leetcode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/chaithanyakamath/leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/chaithanyakamath/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/chaithanyakamath/leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/chaithanyakamath/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/chaithanyakamath/leetcode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/chaithanyakamath/leetcode/tree/master/0279-perfect-squares) |
 | [0415-add-strings](https://github.com/chaithanyakamath/leetcode/tree/master/0415-add-strings) |
+| [0486-predict-the-winner](https://github.com/chaithanyakamath/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/chaithanyakamath/leetcode/tree/master/0509-fibonacci-number) |
 | [0991-broken-calculator](https://github.com/chaithanyakamath/leetcode/tree/master/0991-broken-calculator) |
 | [1140-stone-game-ii](https://github.com/chaithanyakamath/leetcode/tree/master/1140-stone-game-ii) |
@@ -530,16 +534,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/chaithanyakamath/leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/chaithanyakamath/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/chaithanyakamath/leetcode/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/chaithanyakamath/leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/chaithanyakamath/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/chaithanyakamath/leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/chaithanyakamath/leetcode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/chaithanyakamath/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/chaithanyakamath/leetcode/tree/master/1510-stone-game-iv) |
 ## Nim Game
