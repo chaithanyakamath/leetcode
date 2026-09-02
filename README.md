@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/chaithanyakamath/leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/chaithanyakamath/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/chaithanyakamath/leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/chaithanyakamath/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1106-parsing-a-boolean-expression](https://github.com/chaithanyakamath/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/chaithanyakamath/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1328-break-a-palindrome](https://github.com/chaithanyakamath/leetcode/tree/master/1328-break-a-palindrome) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/chaithanyakamath/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/chaithanyakamath/leetcode/tree/master/0509-fibonacci-number) |
 | [0991-broken-calculator](https://github.com/chaithanyakamath/leetcode/tree/master/0991-broken-calculator) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/chaithanyakamath/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/chaithanyakamath/leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/chaithanyakamath/leetcode/tree/master/1510-stone-game-iv) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/chaithanyakamath/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
@@ -669,9 +671,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/chaithanyakamath/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chaithanyakamath/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/chaithanyakamath/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/chaithanyakamath/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
