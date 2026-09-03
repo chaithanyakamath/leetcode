@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/chaithanyakamath/leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/chaithanyakamath/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/chaithanyakamath/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0173-binary-search-tree-iterator](https://github.com/chaithanyakamath/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0278-first-bad-version](https://github.com/chaithanyakamath/leetcode/tree/master/0278-first-bad-version) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0139-word-break](https://github.com/chaithanyakamath/leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/chaithanyakamath/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/chaithanyakamath/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/chaithanyakamath/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/chaithanyakamath/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/chaithanyakamath/leetcode/tree/master/0213-house-robber-ii) |
