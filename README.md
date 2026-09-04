@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/chaithanyakamath/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0173-binary-search-tree-iterator](https://github.com/chaithanyakamath/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/chaithanyakamath/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/chaithanyakamath/leetcode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/chaithanyakamath/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0456-132-pattern](https://github.com/chaithanyakamath/leetcode/tree/master/0456-132-pattern) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/chaithanyakamath/leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/chaithanyakamath/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/chaithanyakamath/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/chaithanyakamath/leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/chaithanyakamath/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/chaithanyakamath/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/chaithanyakamath/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/chaithanyakamath/leetcode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/chaithanyakamath/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/chaithanyakamath/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/chaithanyakamath/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/chaithanyakamath/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/chaithanyakamath/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/chaithanyakamath/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/chaithanyakamath/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/chaithanyakamath/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/chaithanyakamath/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/chaithanyakamath/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/chaithanyakamath/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0881-boats-to-save-people](https://github.com/chaithanyakamath/leetcode/tree/master/0881-boats-to-save-people) |
@@ -502,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/chaithanyakamath/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/chaithanyakamath/leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/chaithanyakamath/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/chaithanyakamath/leetcode/tree/master/0279-perfect-squares) |
 | [0415-add-strings](https://github.com/chaithanyakamath/leetcode/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/chaithanyakamath/leetcode/tree/master/0486-predict-the-winner) |
@@ -639,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/chaithanyakamath/leetcode/tree/master/0268-missing-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/chaithanyakamath/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Ternary Search
 |  |
