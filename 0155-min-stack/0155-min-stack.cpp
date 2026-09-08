@@ -1,9 +1,7 @@
 class MinStack {
 public:
 stack<int> st1, st2; // one stores in normal order other in minElement order
-    MinStack() {
-        
-    }
+    MinStack() {}
     
     void push(int value) {
         st1.push(value);
