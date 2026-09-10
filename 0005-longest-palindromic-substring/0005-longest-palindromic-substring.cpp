@@ -1,28 +1,23 @@
 class Solution {
 public:
-int n;
-vector<vector<int>> dp;
-    bool solve(const string &str, int i, int j){
-        if(i >= j)  return true;
-        if(str[i] != str[j])    return false;
-
-        if(dp[i][j] != -1)  return dp[i][j];
-        return dp[i][j] = solve(str, i+1, j-1);
+    bool solve(const string& s, int l, int r){
+        if(l >= r)  return true;
+        if(s[l] != s[r])    return false;
+        return solve(s, l+1, r-1);
     }
     string longestPalindrome(string s) {
-        n = s.size();
-        int maxLen = INT_MIN, spoint = 0;
-        dp.assign(n, vector<int>(n, -1));
-        for(int i=0; i<n; i++){
-            for(int j=i; j<n; j++){
-                if(solve(s, i, j)){
-                    if(j - i + 1 > maxLen){
-                        maxLen = j - i + 1;
-                        spoint = i;
+       int n = s.size();
+       int maxLen = 0, sPoint = 0;
+       for(int l=0; l<n; l++){
+            for(int r=l; r<n; r++){
+                if(solve(s,l,r)){
+                    if(r-l+1 > maxLen){
+                        sPoint = l;
+                        maxLen = r-l+1;
                     }
-                };
+                }
             }
-        }
-        return s.substr(spoint, maxLen);
+       }
+        return s.substr(sPoint, maxLen);
     }
 };
