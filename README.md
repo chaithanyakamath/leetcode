@@ -743,4 +743,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/chaithanyakamath/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/chaithanyakamath/leetcode/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
