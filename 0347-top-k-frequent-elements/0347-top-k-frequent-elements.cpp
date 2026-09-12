@@ -3,20 +3,19 @@ public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
         int n = nums.size();
         unordered_map<int, int> mp;
+        priority_queue<pair<int, int>> pq;
 
         for(int n : nums)   mp[n]++;
-
-        vector<pair<int, int>> store(mp.begin(), mp.end());
-
-        sort(store.begin(), store.end(),[](const auto& a, const auto& b){
-            return a.second > b.second;
-        });
+        for(auto [val, frq]: mp){
+            pq.push({frq, val});
+        }
 
         vector<int> ans;
-        for(auto [key,val] : store){
-            if(k == 0)    break;
-            ans.push_back(key);
+        while(k>0){
             k--;
+            auto [frq, val] = pq.top();
+            pq.pop();
+            ans.push_back(val);
         }
         return ans;
     }
