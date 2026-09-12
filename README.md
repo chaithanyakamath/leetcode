@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/chaithanyakamath/leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/chaithanyakamath/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2405-optimal-partition-of-string](https://github.com/chaithanyakamath/leetcode/tree/master/2405-optimal-partition-of-string) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/chaithanyakamath/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/chaithanyakamath/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chaithanyakamath/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search Tree
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/chaithanyakamath/leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2347-best-poker-hand](https://github.com/chaithanyakamath/leetcode/tree/master/2347-best-poker-hand) |
 | [2352-equal-row-and-column-pairs](https://github.com/chaithanyakamath/leetcode/tree/master/2352-equal-row-and-column-pairs) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/chaithanyakamath/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/chaithanyakamath/leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/chaithanyakamath/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2962-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/chaithanyakamath/leetcode/tree/master/2962-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/chaithanyakamath/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/chaithanyakamath/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2336-smallest-number-in-infinite-set](https://github.com/chaithanyakamath/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
+| [2530-maximal-score-after-applying-k-operations](https://github.com/chaithanyakamath/leetcode/tree/master/2530-maximal-score-after-applying-k-operations) |
 ## Ordered Set
 |  |
 | ------- |
