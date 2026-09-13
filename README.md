@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/chaithanyakamath/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chaithanyakamath/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/chaithanyakamath/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/chaithanyakamath/leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/chaithanyakamath/leetcode/tree/master/0841-keys-and-rooms) |
 | [0897-increasing-order-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0897-increasing-order-search-tree) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/chaithanyakamath/leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/chaithanyakamath/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/chaithanyakamath/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/chaithanyakamath/leetcode/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/chaithanyakamath/leetcode/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/chaithanyakamath/leetcode/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/chaithanyakamath/leetcode/tree/master/0525-contiguous-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/chaithanyakamath/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0695-max-area-of-island](https://github.com/chaithanyakamath/leetcode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/chaithanyakamath/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/chaithanyakamath/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/chaithanyakamath/leetcode/tree/master/0739-daily-temperatures) |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/chaithanyakamath/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/chaithanyakamath/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/chaithanyakamath/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/chaithanyakamath/leetcode/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/chaithanyakamath/leetcode/tree/master/0994-rotting-oranges) |
@@ -734,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/chaithanyakamath/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/chaithanyakamath/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/chaithanyakamath/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/chaithanyakamath/leetcode/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/chaithanyakamath/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
