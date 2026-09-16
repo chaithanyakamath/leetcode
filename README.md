@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3898-find-the-degree-of-each-vertex](https://github.com/chaithanyakamath/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/chaithanyakamath/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/chaithanyakamath/leetcode/tree/master/3904-smallest-stable-index-ii) |
+| [3925-concatenate-array-with-reverse](https://github.com/chaithanyakamath/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
 | ------- |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chaithanyakamath/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/chaithanyakamath/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chaithanyakamath/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3925-concatenate-array-with-reverse](https://github.com/chaithanyakamath/leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Recursion
 |  |
 | ------- |
