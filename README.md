@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/chaithanyakamath/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/chaithanyakamath/leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/chaithanyakamath/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/chaithanyakamath/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chaithanyakamath/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/chaithanyakamath/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/chaithanyakamath/leetcode/tree/master/0403-frog-jump) |
@@ -677,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/chaithanyakamath/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/chaithanyakamath/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/chaithanyakamath/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chaithanyakamath/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/chaithanyakamath/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0973-k-closest-points-to-origin](https://github.com/chaithanyakamath/leetcode/tree/master/0973-k-closest-points-to-origin) |
