@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/chaithanyakamath/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/chaithanyakamath/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/chaithanyakamath/leetcode/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/chaithanyakamath/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/chaithanyakamath/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Simulation
 |  |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/chaithanyakamath/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/chaithanyakamath/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/chaithanyakamath/leetcode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/chaithanyakamath/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/chaithanyakamath/leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/chaithanyakamath/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/chaithanyakamath/leetcode/tree/master/3925-concatenate-array-with-reverse) |
