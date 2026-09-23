@@ -11,13 +11,14 @@ string cur;
         return true;
     }
     void solve(int i, string s, int part, string cur){
-        if(part==0){
+        if(part==0){ // when u made 4 parts of the string check if string is completely processed
             if(i == n){
-                cur.pop_back();
+                cur.pop_back(); // removes the last dot after 4 parts
                 ans.push_back(cur);
             }
             return;
         }
+        //check each substr before considering whether its valis or not
         if(i<n) solve(i+1, s, part-1, cur+s.substr(i,1)+".");
         if(i+2 <= n && isValid(s.substr(i,2)))   solve(i+2, s, part-1, cur+s.substr(i,2)+".");
         if(i+3 <= n && isValid(s.substr(i,3)))   solve(i+3, s, part-1, cur+s.substr(i,3)+".");
