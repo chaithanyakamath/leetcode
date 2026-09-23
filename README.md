@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/chaithanyakamath/leetcode/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/chaithanyakamath/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/chaithanyakamath/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0980-unique-paths-iii](https://github.com/chaithanyakamath/leetcode/tree/master/0980-unique-paths-iii) |
 | [0983-minimum-cost-for-tickets](https://github.com/chaithanyakamath/leetcode/tree/master/0983-minimum-cost-for-tickets) |
 | [0994-rotting-oranges](https://github.com/chaithanyakamath/leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaithanyakamath/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/chaithanyakamath/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/chaithanyakamath/leetcode/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [0980-unique-paths-iii](https://github.com/chaithanyakamath/leetcode/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/chaithanyakamath/leetcode/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/chaithanyakamath/leetcode/tree/master/1260-shift-2d-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/chaithanyakamath/leetcode/tree/master/2352-equal-row-and-column-pairs) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/chaithanyakamath/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/chaithanyakamath/leetcode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0494-target-sum) |
+| [0980-unique-paths-iii](https://github.com/chaithanyakamath/leetcode/tree/master/0980-unique-paths-iii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -745,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/chaithanyakamath/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/chaithanyakamath/leetcode/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/chaithanyakamath/leetcode/tree/master/0268-missing-number) |
+| [0980-unique-paths-iii](https://github.com/chaithanyakamath/leetcode/tree/master/0980-unique-paths-iii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/chaithanyakamath/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Ternary Search
 |  |
@@ -841,4 +845,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/chaithanyakamath/leetcode/tree/master/0207-course-schedule) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/chaithanyakamath/leetcode/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
