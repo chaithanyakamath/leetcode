@@ -1,7 +1,6 @@
 class Solution {
 public:
 int n, m, valid = 0, ans = 0;
-pair<int, int> loc = {0,0};
 
     void solve(int i, int j, vector<vector<int>>& grid, int valid){
         if(i<0 || i>=n || j<0 || j>= m) return;
@@ -24,6 +23,7 @@ pair<int, int> loc = {0,0};
     int uniquePathsIII(vector<vector<int>>& grid) {
         n = grid.size();
         m = grid[0].size();
+        pair<int, int> loc = {0,0};
 
         for(int i=0; i<n; i++){
             for(int j=0; j<m; j++){
