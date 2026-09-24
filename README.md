@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/chaithanyakamath/leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaithanyakamath/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/chaithanyakamath/leetcode/tree/master/1046-last-stone-weight) |
+| [1049-last-stone-weight-ii](https://github.com/chaithanyakamath/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/chaithanyakamath/leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/chaithanyakamath/leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/chaithanyakamath/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/chaithanyakamath/leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0931-minimum-falling-path-sum](https://github.com/chaithanyakamath/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/chaithanyakamath/leetcode/tree/master/0983-minimum-cost-for-tickets) |
+| [1049-last-stone-weight-ii](https://github.com/chaithanyakamath/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/chaithanyakamath/leetcode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/chaithanyakamath/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1402-reducing-dishes](https://github.com/chaithanyakamath/leetcode/tree/master/1402-reducing-dishes) |
@@ -865,8 +867,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/chaithanyakamath/leetcode/tree/master/0474-ones-and-zeroes) |
+| [1049-last-stone-weight-ii](https://github.com/chaithanyakamath/leetcode/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/chaithanyakamath/leetcode/tree/master/0474-ones-and-zeroes) |
+| [1049-last-stone-weight-ii](https://github.com/chaithanyakamath/leetcode/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
