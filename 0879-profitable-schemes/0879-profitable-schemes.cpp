@@ -1,6 +1,7 @@
 class Solution {
 public:
 int len;
+const int MOD = 1000000007;
 vector<vector<vector<int>>> dp;
     int solve(int i, int n, int minProfit, vector<int>& group, vector<int>& profit){
         if(i == len)   return minProfit <= 0;
@@ -11,7 +12,7 @@ vector<vector<vector<int>>> dp;
         if(n >= group[i]){
             take = solve(i+1, n-group[i], max(0,minProfit-profit[i]), group, profit);
         }
-        return dp[i][n][minProfit] = (take + skip) % (1000000007);
+        return dp[i][n][minProfit] = (take + skip) % MOD;
     }
     int profitableSchemes(int n, int minProfit, vector<int>& group, vector<int>& profit) {
         len = group.size();
