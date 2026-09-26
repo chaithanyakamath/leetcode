@@ -482,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/chaithanyakamath/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1106-parsing-a-boolean-expression](https://github.com/chaithanyakamath/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1143-longest-common-subsequence](https://github.com/chaithanyakamath/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/chaithanyakamath/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1328-break-a-palindrome](https://github.com/chaithanyakamath/leetcode/tree/master/1328-break-a-palindrome) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/chaithanyakamath/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/chaithanyakamath/leetcode/tree/master/1544-make-the-string-great) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/chaithanyakamath/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/chaithanyakamath/leetcode/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/chaithanyakamath/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/chaithanyakamath/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1402-reducing-dishes](https://github.com/chaithanyakamath/leetcode/tree/master/1402-reducing-dishes) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/chaithanyakamath/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/chaithanyakamath/leetcode/tree/master/1510-stone-game-iv) |
