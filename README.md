@@ -481,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/chaithanyakamath/leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/chaithanyakamath/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0692-top-k-frequent-words](https://github.com/chaithanyakamath/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0824-goat-latin](https://github.com/chaithanyakamath/leetcode/tree/master/0824-goat-latin) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/chaithanyakamath/leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/chaithanyakamath/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1106-parsing-a-boolean-expression](https://github.com/chaithanyakamath/leetcode/tree/master/1106-parsing-a-boolean-expression) |
