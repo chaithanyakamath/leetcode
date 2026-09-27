@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/chaithanyakamath/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/chaithanyakamath/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0605-can-place-flowers](https://github.com/chaithanyakamath/leetcode/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/chaithanyakamath/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/chaithanyakamath/leetcode/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/chaithanyakamath/leetcode/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/chaithanyakamath/leetcode/tree/master/0991-broken-calculator) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/chaithanyakamath/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0806-number-of-lines-to-write-string](https://github.com/chaithanyakamath/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/chaithanyakamath/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/chaithanyakamath/leetcode/tree/master/0860-lemonade-change) |
 | [0879-profitable-schemes](https://github.com/chaithanyakamath/leetcode/tree/master/0879-profitable-schemes) |
 | [0881-boats-to-save-people](https://github.com/chaithanyakamath/leetcode/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/chaithanyakamath/leetcode/tree/master/0904-fruit-into-baskets) |
