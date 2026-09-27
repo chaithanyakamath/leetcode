@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/chaithanyakamath/leetcode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/chaithanyakamath/leetcode/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/chaithanyakamath/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0806-number-of-lines-to-write-string](https://github.com/chaithanyakamath/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/chaithanyakamath/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0879-profitable-schemes](https://github.com/chaithanyakamath/leetcode/tree/master/0879-profitable-schemes) |
 | [0881-boats-to-save-people](https://github.com/chaithanyakamath/leetcode/tree/master/0881-boats-to-save-people) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/chaithanyakamath/leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/chaithanyakamath/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0692-top-k-frequent-words](https://github.com/chaithanyakamath/leetcode/tree/master/0692-top-k-frequent-words) |
+| [0806-number-of-lines-to-write-string](https://github.com/chaithanyakamath/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0824-goat-latin](https://github.com/chaithanyakamath/leetcode/tree/master/0824-goat-latin) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/chaithanyakamath/leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/chaithanyakamath/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
