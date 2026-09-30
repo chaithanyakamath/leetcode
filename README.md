@@ -771,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/chaithanyakamath/leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/chaithanyakamath/leetcode/tree/master/1280-students-and-examinations) |
 | [1661-average-time-of-process-per-machine](https://github.com/chaithanyakamath/leetcode/tree/master/1661-average-time-of-process-per-machine) |
+| [1729-find-followers-count](https://github.com/chaithanyakamath/leetcode/tree/master/1729-find-followers-count) |
 ## Concurrency
 |  |
 | ------- |
