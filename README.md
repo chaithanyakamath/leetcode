@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/chaithanyakamath/leetcode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/chaithanyakamath/leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/chaithanyakamath/leetcode/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaithanyakamath/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0948-bag-of-tokens](https://github.com/chaithanyakamath/leetcode/tree/master/0948-bag-of-tokens) |
 | [0991-broken-calculator](https://github.com/chaithanyakamath/leetcode/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/chaithanyakamath/leetcode/tree/master/1328-break-a-palindrome) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/chaithanyakamath/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/chaithanyakamath/leetcode/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/chaithanyakamath/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaithanyakamath/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaithanyakamath/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1106-parsing-a-boolean-expression](https://github.com/chaithanyakamath/leetcode/tree/master/1106-parsing-a-boolean-expression) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chaithanyakamath/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/chaithanyakamath/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/chaithanyakamath/leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0824-goat-latin](https://github.com/chaithanyakamath/leetcode/tree/master/0824-goat-latin) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaithanyakamath/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/chaithanyakamath/leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/chaithanyakamath/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1106-parsing-a-boolean-expression](https://github.com/chaithanyakamath/leetcode/tree/master/1106-parsing-a-boolean-expression) |
@@ -914,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/chaithanyakamath/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/chaithanyakamath/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/chaithanyakamath/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/chaithanyakamath/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/chaithanyakamath/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaithanyakamath/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
