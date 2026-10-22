@@ -9,9 +9,7 @@ public:
             mp[d]++;
             cur /= 10;
         }
-        for(auto p : mp){
-            ans += p.first * p.second;
-        }
+        for(auto p : mp)    ans += p.first * p.second;
         return ans;
     }
 };
